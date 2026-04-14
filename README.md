@@ -11,5 +11,6 @@ I like "fixing" messy UI/UX designs to make them simple, intuitive, and effectiv
 This GitHub profile is my working portfolio that I want show. It's a curated collection of my most finished and functional projects, not everything I've done, but the ones I think work great.
 
 These are real problem-solving experiments, from industrial factory dashboards (like my Andon and PPIC tracking systems) to cross-platform mobile UI tests. To show my drive to build, experiment, and improve user experiences.
+
 ---
 📫 *I am always open to feedback, new challenges, and opportunities to grow my skills, because I am still exploring many things. Feel free to explore my repositories below!*
